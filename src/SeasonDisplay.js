@@ -2,11 +2,11 @@ import './SeasonDisplay.css'
 import React from 'react';
 const seasonConfig = {
     summer:{
-text : "Let's hit the beach !",
+text : "It's a sunny day ! Rember to put on sunscreen",
 iconName : 'sun'
 },
 winter :{
-    text: 'Burr it is cold ! ',
+    text: "It's a cold day ! Wear a jacket ",
     iconName : 'snowflake'
 }
 }
